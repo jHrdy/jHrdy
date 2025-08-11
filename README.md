@@ -1,24 +1,11 @@
 ## Hello, my name is Jozef!
 <b>
-🦁 Software engineering student at CTU FNSPE
-☁️ Junior Cloud engineer at T-mobile
-🐍 Building AI, Machine learning, Data Science projects on my own
-🏡 Slovak living in Prague
-See my LinkedIn if you want to get in touch
+🦁 Software engineering student at CTU FNSPE <br/>
+☁️ Junior Cloud engineer at T-mobile <br/>
+🐍 Building AI, Machine learning, Data Science projects on my own <br/>
+🏡 Slovak living in Prague <br/>
+See my LinkedIn if you want to get in touch <br/>
 </b>
-
-Get to know me:
-### Worked at CERN
-- research and development of AI tool used for outlier detection in physics data from experiment AMBER
-
-### Working in T-mobile
-- Research and Trials team with work focused on Cloud technologies
-
-### Hobbies
-- Martial Arts fan - enrolled BJJ, Boxing, Karate and Capoeira lessons in highschool and collage
-- I love to run
-- I never turn down a beach volleyball invitation
-- Summer camp volunteer 11 years in a row and still loving every second of it
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br/> ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -36,4 +23,15 @@ Get to know me:
 ---
 [![](https://visitcount.itsvg.in/api?id=jhrdy&icon=3&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Get to know me:
+### Worked at CERN
+- research and development of AI tool used for outlier detection in physics data from experiment AMBER
+
+### Working in T-mobile
+- Research and Trials team with work focused on Cloud technologies
+
+### Hobbies
+- Martial Arts fan - enrolled BJJ, Boxing, Karate and Capoeira lessons in highschool and collage
+- I love to run
+- I never turn down a beach volleyball invitation
+- Summer camp volunteer 11 years in a row and still loving every second of it
