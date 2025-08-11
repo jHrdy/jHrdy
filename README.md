@@ -14,14 +14,14 @@ See my LinkedIn if you want to get in touch <br/>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=githubs.i&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-Get to know me:
-### Worked at CERN
+# 🤝 Get to know me:
+### Worked at CERN 🟦
 - research and development of AI tool used for outlier detection in physics data from experiment AMBER
 
-### Working in T-mobile
+### Working in T-mobile 💻
 - Research and Trials team with work focused on Cloud technologies
 
-### Hobbies
+### Hobbies 😄
 - Martial Arts fan - enrolled BJJ, Boxing, Karate and Capoeira lessons in highschool and collage
 - I love to run
 - I never turn down a beach volleyball invitation
