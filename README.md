@@ -16,9 +16,8 @@
 - Experimenting with cutting-edge AI models and data-driven solutions
 
 ---
-🏡 Slovak living in Prague <br/>
   
-See my LinkedIn if you want to get in touch <br/><br/> [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jozef-hrd%C3%BD-a6a7a130b/)
+**See my LinkedIn if you want to get in touch** <br/><br/> [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jozef-hrd%C3%BD-a6a7a130b/)
 </b>
 
 # 💻 Tech Stack:
