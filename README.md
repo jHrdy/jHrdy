@@ -1,15 +1,21 @@
 ## Hello, my name is Jozef!
-<b>
-🦁 Software engineering student at CTU FNSPE <br/>
-      - studies focused on programming, statistics and data <br/>
-<br/>
-☁️ Junior Cloud engineer at T-mobile <br/>
-      - mainly Kubernetes and Docker related work <br/>
-<br/>
-🐍 Building AI, Machine learning, Data Science projects on my own <br/>
-      - Diploma thesis on Outlier detection using AI in CERN <br/>
-      - own home projects that interest me <br/>
-  <br/>
+### 🦁 Software Engineering Student @ CTU FNSPE
+*Focused on programming, statistics, and data-driven problem solving.*
+
+---
+
+### ☁️ Junior Cloud Engineer @ T-Mobile
+- Working with **Kubernetes** & **Docker** in production environments  
+- Contributing to cloud infrastructure optimization
+
+---
+
+### 🐍 AI • Machine Learning • Data Science Enthusiast
+- **Diploma thesis**: Outlier Detection using AI at **CERN**  
+- Building personal projects that explore topics I’m passionate about  
+- Experimenting with cutting-edge AI models and data-driven solutions
+
+---
 🏡 Slovak living in Prague <br/>
   
 See my LinkedIn if you want to get in touch <br/><br/> [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jozef-hrd%C3%BD-a6a7a130b/)
