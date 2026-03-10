@@ -5,7 +5,7 @@
 ---
 
 ### ☁️ Junior Cloud Engineer @ T-Mobile
-- Working with **Kubernetes** & **Docker** in production environments  
+- Worked with **Kubernetes** & **Docker** in experimental environments  
 - Contributing to cloud infrastructure optimization
 
 ---
