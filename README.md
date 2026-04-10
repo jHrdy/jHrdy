@@ -4,9 +4,9 @@
 
 ---
 
-### ☁️ Junior Cloud Engineer @ T-Mobile
-- Worked with **Kubernetes** & **Docker** in experimental environments  
-- Contributing to cloud infrastructure optimization
+### ☁️ Junior AI Engineer @ O2
+- Working on internal data-driven projects  
+- Participating in EDA analyses, data modelling, data source creating and other related tasks
 
 ---
 
