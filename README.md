@@ -6,8 +6,7 @@
 
 ### ☁️ Junior AI Engineer @ O2
 - Working on internal data-driven projects  
-- Participating in EDA analyses, data modelling, data source creating and other related tasks
-
+- Participating in cross department AI usecases, data workflows, processing and modelling
 ---
 
 ### 🐍 AI • Machine Learning • Data Science Enthusiast
